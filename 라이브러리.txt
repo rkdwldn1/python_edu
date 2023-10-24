@@ -1,0 +1,9 @@
+< 라이브러리 >
+
+Ms store에서 python 다운로드
+
+Python 3.11 Module Docs 에서 경로 복사
+
+cmd창에서 cd C:\Users\wldn4\AppData\Local\Programs\Python\Python311\Scripts
+
+> pip install requests
